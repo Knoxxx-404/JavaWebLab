@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
 
+body{
+    background-color: black;
+}
+
 h1,h2,h3 {
-    font-family: 'Chango', cursive;
+    text-align: center;
+    font-family: 'Chango';
     background-color: aquamarine;
 }
 

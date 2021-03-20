@@ -8,8 +8,10 @@ h1,h2,h3 {
     text-align: center;
     font-family: 'Chango';
     background-color: aquamarine;
+    padding: 20px;
 }
 
 p {
     background-color: bisque;
+    padding: 20px;
 }

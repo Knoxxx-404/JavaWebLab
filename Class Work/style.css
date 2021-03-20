@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+
+h1,h2,h3 {
+    font-family: 'Chango', cursive;
+    background-color: aquamarine;
+}
+
+p {
+    background-color: bisque;
+}
